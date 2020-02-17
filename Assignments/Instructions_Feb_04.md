@@ -55,9 +55,9 @@ This will download an .exe file that will add Tesseract to your Program Files di
 
 ```tesseract [input image filename] [output txt filename]```
 
-> Warning: You will need to do this if you are using Windows:
+> Warning: You will need to do this if you are using Windows PowerShell:
 
-```"C:\Program Files\Tesseract-OCR\tesseract” [input image filename] [output txt filename]```
+```& "C:\Program Files\Tesseract-OCR\tesseract” [input image filename] [output txt filename]```
 
 You will need to put the full path in quotation marks because the folder name has a space. [PS, this is why it's a very bad idea to have folder or file names with a space in them. Use _underscore_ instead.]
 
