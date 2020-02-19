@@ -14,7 +14,7 @@ January 20  |  NO CLASS - Martin Luther King Day
 January 27 |  2 - Scanning documents
 February 3 |  3 - ABBYY FineReader and Tesseract
 February 10 |  4 - Cleaning Results With RegEx
-February 17 |  5 - Introduction to Machine Learning and Preparing your Training Data
+February 17 |  5 - Introduction to Machine Learning and Neural Networks
 February 24  |  6 - Transkribus
 March 2 |  NO CLASS - Spring Break
 March 9 |  NO CLASS 
