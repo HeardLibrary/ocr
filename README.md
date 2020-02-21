@@ -15,12 +15,14 @@ January 27 |  2 - Scanning documents
 February 3 |  3 - ABBYY FineReader and Tesseract
 February 10 |  4 - Cleaning Results With RegEx
 February 17 |  5 - Introduction to Machine Learning and Neural Networks
-February 24  |  6 - Transkribus
+February 24  |  NO CLASS
 March 2 |  NO CLASS - Spring Break
 March 9 |  NO CLASS 
-March 16 |  7 - OCRopus
-March 23  |  8 - 
-March 30  |  9 - Creating a digital exhibit
-April 6  |  10 - Wrap-up / Showcase 
+March 16 |  6 - Transkribus
+March 23  |  7 - Ocropus
+March 30  |  8 - 
+April 6  |  9 - Creating a digital exhibit
+April 12  |  10 - Wrap-up 
+April 21   |  Buchanan Fellows Reception (12:00 - 2:00 pm in Central Library)
 
 
