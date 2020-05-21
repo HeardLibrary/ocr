@@ -25,4 +25,8 @@ April 6  |  9 - Creating a digital exhibit
 April 12  |  10 - Wrap-up 
 April 21   |  Buchanan Fellows Reception (12:00 - 2:00 pm in Central Library)
 
+### Final Student Exhibition
+Students shared their favorite stories from the diary to this digital exhibit. We used the Omeka digital publishing platform, designed for cultural heritage institutions, and introduced students to Dublin Core metadata standard.
+
+http://swanz.digitalprojects.network/
 
