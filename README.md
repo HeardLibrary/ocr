@@ -3,6 +3,11 @@ Experimental working group working on generating transcriptions of archival docu
 
 *Sponsored by the [Vanderbilt Library Digital Scholarship and Communications Office](https://www.library.vanderbilt.edu/scholarly/)*
 
+### Final Student Exhibition
+Students shared their favorite stories from the diary to this digital exhibit. We used the Omeka digital publishing platform, designed for cultural heritage institutions, and introduced students to Dublin Core metadata standard.
+
+http://swanz.digitalprojects.network/
+
 ### Tentative Schedule
 
 *All meetings will take place in the Center for Digital Humanities (Buttrick Hall 344) from 3:00 - 4:00.*
@@ -25,8 +30,5 @@ April 6  |  9 - Creating a digital exhibit
 April 12  |  10 - Wrap-up 
 April 21   |  Buchanan Fellows Reception (12:00 - 2:00 pm in Central Library)
 
-### Final Student Exhibition
-Students shared their favorite stories from the diary to this digital exhibit. We used the Omeka digital publishing platform, designed for cultural heritage institutions, and introduced students to Dublin Core metadata standard.
 
-http://swanz.digitalprojects.network/
 
