@@ -6,7 +6,7 @@ Experimental working group working on generating transcriptions of archival docu
 ### Final Student Exhibition
 Students shared their favorite stories from the diary to this digital exhibit. We used the Omeka digital publishing platform, designed for cultural heritage institutions, and introduced students to Dublin Core metadata standard.
 
-https://swanz.digitalprojects.network/
+https://cursive.library.vanderbilt.edu/
 
 ### Tentative Schedule
 
